@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CanvasPanTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CanvasPanTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
